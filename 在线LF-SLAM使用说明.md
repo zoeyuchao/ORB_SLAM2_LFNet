@@ -32,4 +32,4 @@
 
 ## 4. LFNet 
 
-如果还需要对LFNet本身做改进，或者重新生成一些文件，那么请移步这个仓库。
+如果还需要对LFNet本身做改进，或者重新生成一些文件，那么请移步这个[仓库](https://github.com/zoeyuchao/LFNet_modify.git)。
